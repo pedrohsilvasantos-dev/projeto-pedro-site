@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
-  <title id="title">La France</title>
-  <desc id="desc">Logo tipográfico La France inspirado no basquete.</desc>
-  <rect width="720" height="180" fill="#191919"/>
-  <circle cx="88" cy="90" r="49" fill="#f2c94c"/>
-  <path d="M88 41c-19 14-28 30-28 49s9 35 28 49M88 41c19 14 28 30 28 49s-9 35-28 49M39 90h98" fill="none" stroke="#191919" stroke-width="4"/>
-  <text x="165" y="111" fill="#f2efe8" font-family="Arial, sans-serif" font-size="68" font-weight="900" letter-spacing="5">LA FRANCE</text>
-</svg>
